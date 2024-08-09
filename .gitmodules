@@ -1,0 +1,3 @@
+[submodule "note"]
+	path = note
+	url = git@github.com:N3M0-dev/typst-note-template.git
